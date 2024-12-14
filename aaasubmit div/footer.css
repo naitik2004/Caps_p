@@ -5,6 +5,7 @@ footer{
     align-items: center;
     padding-top: 280px;
     padding-bottom: 10px;
+    margin-bottom: 34px;
 }
 
 
@@ -23,7 +24,7 @@ footer{
 
 .twoone{
     font-family: Roboto Serif;
-    font-size: 28px;
+    font-size: 28px; 
     font-weight: 400;
     text-align: left;
 
